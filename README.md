@@ -7,5 +7,5 @@ This Repo includes an R script containing all of the necessary steps to go from 
 A short overview of what the R script accomplishes is as follows: 
 * Merge the training and testing sets
 * Filter the dataset on certain variables (see codebook for more explenation)
-* Add appropriate variables, with corresponding labels, to the datset
+* Add appropriate variables, with corresponding labels, to the dataset (see codebook for  more explenation)
 * Write the new dataset to a text file
