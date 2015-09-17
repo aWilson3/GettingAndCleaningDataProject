@@ -81,9 +81,7 @@ The first change to the dataset we made was to include only the mean() and std()
 * fBodyGyroMag
 * fBodyGyroJerkMag
 
-The next step was to add two variables to the dataset:
-1.subject
-2.activity
+The next step was to add the variables ***subject*** and ***activity*** to the dataset. These variables identify the activity being performed for each observation, and the person performing this activity.
 
 These variables were included as the following separate text files in the original dataset:
 * y_train.txt
