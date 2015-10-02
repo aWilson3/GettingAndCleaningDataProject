@@ -61,7 +61,7 @@ The complete list of variables of each feature vector is available in 'features.
 
 # Modifications Made for This Project:
 
-The first change to the dataset we made was to include only the mean() and std() estimates for the signals described above:
+The first change to the dataset we made was to include only the mean() and std() estimates for the following signals:
 
 * tBodyAcc-XYZ
 * tGravityAcc-XYZ
