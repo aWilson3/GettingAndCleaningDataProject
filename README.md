@@ -1,3 +1,5 @@
+## The below assignment instructions were provided by instructors of the Data Science specialization on Coursera.org
+***
 # GettingAndCleaningDataProject
 
 This goal of this project was to transform a given dataset into a specific format. The data used for the assignment was gathered from the accelerometers of the Samsung Galaxy S smartphone. The data was obtained from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
